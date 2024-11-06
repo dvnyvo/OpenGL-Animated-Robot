@@ -4,7 +4,7 @@ GLUT OpenGL C++
 An animtated 3D robot with functional joints and walking.
 
 To compile:
-	- Used OpenGL on Visual Studio compilied on Windows 10 following the 'CompilingOnWindows' guide on D2L
+	- Used OpenGL on Visual Studio compilied on Windows 10 
 
 Robot Assembly:
 	Head, Body (cannon/gun included), Shoulder, Left & Right Arm, Lower Body, Left & Right Leg

@@ -1,6 +1,7 @@
 # OpenGL-Animated-Robot
+GLUT OpenGL C++
 
-An animtated 3D robot with functional joints and walking
+An animtated 3D robot with functional joints and walking.
 
 To compile:
 	- Used OpenGL on Visual Studio compilied on Windows 10 following the 'CompilingOnWindows' guide on D2L
